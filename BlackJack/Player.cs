@@ -46,17 +46,63 @@ namespace BlackJack
             Hands[0].AddRandomCard(false);
         }
 
-        public void DisplayPlayer(TextWriter writer, bool isCurrentPlayer)
+        public virtual void DisplayPlayer(TextWriter writer, bool isCurrentPlayer)
         {
-
+            if (Hands.Count > 1)
+            {
+                displayMultiHand(writer, isCurrentPlayer);
+            }
+            else
+            {
+                displaySingleHand(writer, isCurrentPlayer);
+            }
         }
-        public void displayMultiHand(TextWriter writer, bool isCurrentPlayer)
+        public virtual void displayMultiHand(TextWriter writer, bool isCurrentPlayer)
         {
-
+            if (isCurrentPlayer == true)
+            {
+                string finalString = "*" + Name + "\r\n\t";
+                for (int i = 0; i < Hands.Count; i++)
+                {
+                    if (i == Hands.Count - 1)
+                    {
+                        finalString += "Hand " + (i + 1) + ": " + Hands[i].CardsString() + "\r\n";
+                    }
+                    else
+                    {
+                        finalString += "Hand " + (i + 1) + ": " + Hands[i].CardsString() + "\r\n\t";
+                    }  
+                }
+                writer.Write(finalString);
+            }
+            else
+            {
+                string finalString = " " + Name + "\r\n\t";
+                for (int i = 0; i < Hands.Count; i++)
+                {
+                    if (i == Hands.Count - 1)
+                    {
+                        finalString += "Hand " + (i + 1) + ": " + Hands[i].CardsString() + "\r\n";
+                    }
+                    else
+                    {
+                        finalString += "Hand " + (i + 1) + ": " + Hands[i].CardsString() + "\r\n\t";
+                    }
+                }
+                writer.Write(finalString);
+            }
         }
-        public void displaySingleHand(TextWriter writer, bool isCurrentPlayer)
+        public virtual void displaySingleHand(TextWriter writer, bool isCurrentPlayer)
         {
-
+            if (isCurrentPlayer == true)
+            {
+                writer.Write("*" + Name + " Hand: " + Hands[0].CardsString() + "\r\n");
+            }
+            else
+            {
+                writer.Write(" " + Name + " Hand: " + Hands[0].CardsString() + "\r\n");
+            }
+            
         }
     }
 }

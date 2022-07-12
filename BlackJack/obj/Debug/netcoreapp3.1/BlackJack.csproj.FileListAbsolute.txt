@@ -26,3 +26,17 @@ C:\Users\klindt\Documents\BlackJackGitHub\Blackjack\BlackJack\obj\Debug\netcorea
 C:\Users\klindt\Documents\BlackJackGitHub\Blackjack\BlackJack\obj\Debug\netcoreapp3.1\BlackJack.dll
 C:\Users\klindt\Documents\BlackJackGitHub\Blackjack\BlackJack\obj\Debug\netcoreapp3.1\BlackJack.pdb
 C:\Users\klindt\Documents\BlackJackGitHub\Blackjack\BlackJack\obj\Debug\netcoreapp3.1\BlackJack.genruntimeconfig.cache
+C:\Users\tveliyathil\source\repos\Blackjack\BlackJack\bin\Debug\netcoreapp3.1\BlackJack.exe
+C:\Users\tveliyathil\source\repos\Blackjack\BlackJack\bin\Debug\netcoreapp3.1\BlackJack.deps.json
+C:\Users\tveliyathil\source\repos\Blackjack\BlackJack\bin\Debug\netcoreapp3.1\BlackJack.runtimeconfig.json
+C:\Users\tveliyathil\source\repos\Blackjack\BlackJack\bin\Debug\netcoreapp3.1\BlackJack.runtimeconfig.dev.json
+C:\Users\tveliyathil\source\repos\Blackjack\BlackJack\bin\Debug\netcoreapp3.1\BlackJack.dll
+C:\Users\tveliyathil\source\repos\Blackjack\BlackJack\bin\Debug\netcoreapp3.1\BlackJack.pdb
+C:\Users\tveliyathil\source\repos\Blackjack\BlackJack\obj\Debug\netcoreapp3.1\BlackJack.csproj.AssemblyReference.cache
+C:\Users\tveliyathil\source\repos\Blackjack\BlackJack\obj\Debug\netcoreapp3.1\BlackJack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tveliyathil\source\repos\Blackjack\BlackJack\obj\Debug\netcoreapp3.1\BlackJack.AssemblyInfoInputs.cache
+C:\Users\tveliyathil\source\repos\Blackjack\BlackJack\obj\Debug\netcoreapp3.1\BlackJack.AssemblyInfo.cs
+C:\Users\tveliyathil\source\repos\Blackjack\BlackJack\obj\Debug\netcoreapp3.1\BlackJack.csproj.CoreCompileInputs.cache
+C:\Users\tveliyathil\source\repos\Blackjack\BlackJack\obj\Debug\netcoreapp3.1\BlackJack.dll
+C:\Users\tveliyathil\source\repos\Blackjack\BlackJack\obj\Debug\netcoreapp3.1\BlackJack.pdb
+C:\Users\tveliyathil\source\repos\Blackjack\BlackJack\obj\Debug\netcoreapp3.1\BlackJack.genruntimeconfig.cache

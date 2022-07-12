@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\klindt\\Documents\\BlackJackGitHub\\Blackjack\\BlackJack\\BlackJack.csproj": {}
+    "C:\\Users\\tveliyathil\\source\\repos\\Blackjack\\BlackJack\\BlackJack.csproj": {}
   },
   "projects": {
-    "C:\\Users\\klindt\\Documents\\BlackJackGitHub\\Blackjack\\BlackJack\\BlackJack.csproj": {
+    "C:\\Users\\tveliyathil\\source\\repos\\Blackjack\\BlackJack\\BlackJack.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\klindt\\Documents\\BlackJackGitHub\\Blackjack\\BlackJack\\BlackJack.csproj",
+        "projectUniqueName": "C:\\Users\\tveliyathil\\source\\repos\\Blackjack\\BlackJack\\BlackJack.csproj",
         "projectName": "BlackJack",
-        "projectPath": "C:\\Users\\klindt\\Documents\\BlackJackGitHub\\Blackjack\\BlackJack\\BlackJack.csproj",
-        "packagesPath": "C:\\Users\\klindt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\klindt\\Documents\\BlackJackGitHub\\Blackjack\\BlackJack\\obj\\",
+        "projectPath": "C:\\Users\\tveliyathil\\source\\repos\\Blackjack\\BlackJack\\BlackJack.csproj",
+        "packagesPath": "C:\\Users\\tveliyathil\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tveliyathil\\source\\repos\\Blackjack\\BlackJack\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\klindt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tveliyathil\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

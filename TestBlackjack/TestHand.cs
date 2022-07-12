@@ -37,7 +37,7 @@ namespace TestBlackjack
             hand.AddRandomCard(true);
             hand.Cards[0].Value = 5;
             hand.Cards[1].Value = 4;
-            Assert.AreEqual("5 4 6", hand.CardsString());
+            Assert.AreEqual("5 4", hand.CardsString());
             
         }
 

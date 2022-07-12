@@ -5,7 +5,9 @@ namespace BlackJack
     public class Game
     {
         private bool active;
-        public int currentPlayer;
+        public virtual int currentPlayer { get; private set; }
+
+
         public List<Player> Players { get; private set; }
         public Player Dealer { get; private set; }
 
