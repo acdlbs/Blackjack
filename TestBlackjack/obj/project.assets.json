@@ -4925,32 +4925,38 @@
     ]
   },
   "packageFolders": {
-    "/Users/aiden.dowell/.nuget/packages/": {}
+    "C:\\Users\\klindt\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/aiden.dowell/Documents/foo/BlackJack/TestBlackjack/TestBlackjack.csproj",
+      "projectUniqueName": "C:\\Users\\klindt\\Documents\\BlackJackGitHub\\Blackjack\\TestBlackjack\\TestBlackjack.csproj",
       "projectName": "TestBlackjack",
-      "projectPath": "/Users/aiden.dowell/Documents/foo/BlackJack/TestBlackjack/TestBlackjack.csproj",
-      "packagesPath": "/Users/aiden.dowell/.nuget/packages/",
-      "outputPath": "/Users/aiden.dowell/Documents/foo/BlackJack/TestBlackjack/obj/",
+      "projectPath": "C:\\Users\\klindt\\Documents\\BlackJackGitHub\\Blackjack\\TestBlackjack\\TestBlackjack.csproj",
+      "packagesPath": "C:\\Users\\klindt\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\klindt\\Documents\\BlackJackGitHub\\Blackjack\\TestBlackjack\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "/Users/aiden.dowell/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\klindt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "/Users/aiden.dowell/Documents/foo/BlackJack/BlackJack/BlackJack.csproj": {
-              "projectPath": "/Users/aiden.dowell/Documents/foo/BlackJack/BlackJack/BlackJack.csproj"
+            "C:\\Users\\klindt\\Documents\\BlackJackGitHub\\Blackjack\\BlackJack\\BlackJack.csproj": {
+              "projectPath": "C:\\Users\\klindt\\Documents\\BlackJackGitHub\\Blackjack\\BlackJack\\BlackJack.csproj"
             }
           }
         }
@@ -4997,7 +5003,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.301/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.409\\RuntimeIdentifierGraph.json"
       }
     }
   }

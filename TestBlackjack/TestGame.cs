@@ -82,6 +82,9 @@ namespace TestBlackjack
 
         //}
 
+        [Test]        public void Test_Game_GetCurrentPlayer_OOB()        {            Mock<Game> mockGame = new Mock<Game>() { CallBase = true };            mockGame.Object.ConfigurePlayers(2);            mockGame.Setup(game => game.currentPlayer).Returns(-1);            Assert.AreEqual(null, mockGame.Object.GetCurrentPlayer());        }
+
+
 
     }
 }
