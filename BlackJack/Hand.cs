@@ -6,7 +6,9 @@ namespace BlackJack
     public class Hand
     {
         public List<Card> Cards { get; private set; }
-        private bool busted;
+
+        //ask about changing this from private to public
+        public bool busted;
 
         public Hand()
         {
