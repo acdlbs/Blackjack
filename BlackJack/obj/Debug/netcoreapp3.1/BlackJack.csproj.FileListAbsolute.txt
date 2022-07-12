@@ -1,0 +1,14 @@
+/Users/aiden.dowell/Documents/foo/BlackJack/BlackJack/bin/Debug/netcoreapp3.1/BlackJack
+/Users/aiden.dowell/Documents/foo/BlackJack/BlackJack/bin/Debug/netcoreapp3.1/BlackJack.deps.json
+/Users/aiden.dowell/Documents/foo/BlackJack/BlackJack/bin/Debug/netcoreapp3.1/BlackJack.runtimeconfig.json
+/Users/aiden.dowell/Documents/foo/BlackJack/BlackJack/bin/Debug/netcoreapp3.1/BlackJack.runtimeconfig.dev.json
+/Users/aiden.dowell/Documents/foo/BlackJack/BlackJack/bin/Debug/netcoreapp3.1/BlackJack.dll
+/Users/aiden.dowell/Documents/foo/BlackJack/BlackJack/bin/Debug/netcoreapp3.1/BlackJack.pdb
+/Users/aiden.dowell/Documents/foo/BlackJack/BlackJack/obj/Debug/netcoreapp3.1/BlackJack.csproj.AssemblyReference.cache
+/Users/aiden.dowell/Documents/foo/BlackJack/BlackJack/obj/Debug/netcoreapp3.1/BlackJack.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aiden.dowell/Documents/foo/BlackJack/BlackJack/obj/Debug/netcoreapp3.1/BlackJack.AssemblyInfoInputs.cache
+/Users/aiden.dowell/Documents/foo/BlackJack/BlackJack/obj/Debug/netcoreapp3.1/BlackJack.AssemblyInfo.cs
+/Users/aiden.dowell/Documents/foo/BlackJack/BlackJack/obj/Debug/netcoreapp3.1/BlackJack.csproj.CoreCompileInputs.cache
+/Users/aiden.dowell/Documents/foo/BlackJack/BlackJack/obj/Debug/netcoreapp3.1/BlackJack.dll
+/Users/aiden.dowell/Documents/foo/BlackJack/BlackJack/obj/Debug/netcoreapp3.1/BlackJack.pdb
+/Users/aiden.dowell/Documents/foo/BlackJack/BlackJack/obj/Debug/netcoreapp3.1/BlackJack.genruntimeconfig.cache
